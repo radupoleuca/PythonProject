@@ -139,3 +139,27 @@ def stats():
 #links()
 #stats()
 
+def top_10_persoane_tinere():
+    sql = "SELECT completelist.id, completelist.rank, completelist.name, stats.age FROM completelist INNER JOIN stats ON completelist.id = stats.id WHERE stats.age IS NOT NULL ORDER BY CAST(stats.age as unsigned) ASC LIMIT 10"
+    mycursor.execute(sql)
+    myresult = mycursor.fetchall()
+    for x in myresult:
+        print(x)
+
+
+def cetatenie_americana():
+    sql = "SELECT COUNT(*) FROM stats WHERE citizenship = 'United States' "
+    mycursor.execute(sql)
+    x = mycursor.fetchone()
+    print(x)
+
+def scor_filantropic():
+    sql = "SELECT completelist.id, completelist.rank, completelist.name, stats.philanthropyscore FROM completelist INNER JOIN stats ON completelist.id = stats.id WHERE stats.philanthropyscore IS NOT NULL ORDER BY CAST(stats.philanthropyscore as unsigned) DESC LIMIT 10"
+    mycursor.execute(sql)
+    myresult = mycursor.fetchall()
+    for x in myresult:
+        print(x)
+
+#top_10_persoane_tinere()
+#cetatenie_americana()
+scor_filantropic()
