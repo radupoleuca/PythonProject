@@ -9,11 +9,19 @@ import mysql.connector
 
 mydb = mysql.connector.connect(host="localhost", user="root", passwd="root", database="py_project")
 mycursor = mydb.cursor()
-'''
-PATH = "C:\Program Files (x86)\chromedriver.exe"
-driver = webdriver.Chrome(PATH)
 
-driver.get('https://forbes.com/billionaires') # accesez site-ul principal
+PATH = "C:\Program Files (x86)\chromedriver.exe"
+driver = webdriver.Chrome(executable_path=PATH)
+
+driver.get('https://www.forbes.com/billionaires/')
+
+driver.implicitly_wait(10)
+
+iframe_elem = driver.find_element_by_css_selector('iframe[title="TrustArc Cookie Consent Manager"')
+driver.switch_to.frame(iframe_elem)
+accept_btn = driver.find_element_by_css_selector('.call')
+accept_btn.click()
+
 driver.implicitly_wait(15)
 
 all = driver.find_elements_by_class_name('table-row')
@@ -25,7 +33,18 @@ f.truncate(0)
 
 g = open("demofile3.txt", "a")
 g.truncate(0)
-'''
+
+
+def deleteFromDb():
+    sql = "DELETE FROM stats"
+    mycursor.execute(sql)
+    mydb.commit()
+
+    sql = "DELETE FROM completelist"
+    mycursor.execute(sql)
+    mydb.commit()
+
+
 def completeList():
     nr = 0
     for item in all:
@@ -135,9 +154,10 @@ def stats():
 # o functie care sterge tot din tabele
 # o functie care creaza baza de date si tabelele (sa fie acolo desi nu o voi apela la fiecare rulare.. sau poate da, poate trebuie?)
         
-#completeList()
-#links()
-#stats()
+deleteFromDb()        
+completeList()
+links()
+stats()
 
 def top_10_persoane_tinere():
     sql = "SELECT completelist.id, completelist.rank, completelist.name, stats.age FROM completelist INNER JOIN stats ON completelist.id = stats.id WHERE stats.age IS NOT NULL ORDER BY CAST(stats.age as unsigned) ASC LIMIT 10"
@@ -160,6 +180,9 @@ def scor_filantropic():
     for x in myresult:
         print(x)
 
-#top_10_persoane_tinere()
-#cetatenie_americana()
+print("TOP 10 PERSOANE TINERE:\n")
+top_10_persoane_tinere()
+print("\n CATE PERSOANE AU CETATENIE AMERICANA\n")
+cetatenie_americana()
+print("\nTOP 10 PERSOANE DUPA SCORUL FILANTROPIC:\n")
 scor_filantropic()

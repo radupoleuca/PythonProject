@@ -1,0 +1,235 @@
+{
+    "ID": 1,
+    "AGE": "56",
+    "SOURCE OF WEALTH": "Amazon, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "2",
+    "RESIDENCE": "Seattle, Washington",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "In Relationship",
+    "CHILDREN": "4",
+    "EDUCATION": "Bachelor of Arts/Science, Princeton University"
+}{
+    "ID": 2,
+    "AGE": "65",
+    "SOURCE OF WEALTH": "Microsoft, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "5",
+    "RESIDENCE": "Medina, Washington",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3",
+    "EDUCATION": "Drop Out, Harvard University"
+}{
+    "ID": 3,
+    "AGE": "71",
+    "SOURCE OF WEALTH": "LVMH",
+    "RESIDENCE": "Paris, France",
+    "CITIZENSHIP": "France",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "5",
+    "EDUCATION": "Bachelor of Arts/Science, Ecole Polytechnique de Paris"
+}{
+    "ID": 4,
+    "AGE": "90",
+    "SOURCE OF WEALTH": "Berkshire Hathaway, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "5",
+    "RESIDENCE": "Omaha, Nebraska",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Widowed, Remarried",
+    "CHILDREN": "3",
+    "EDUCATION": "Bachelor of Arts/Science, University of Nebraska Lincoln; Master of Science, Columbia University"
+}{
+    "ID": 5,
+    "AGE": "76",
+    "SOURCE OF WEALTH": "software, Self Made",
+    "SELF-MADE SCORE": "9",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Woodside, California",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "In Relationship",
+    "CHILDREN": "4",
+    "EDUCATION": "Drop Out, University of Chicago; Drop Out, University of Illinois, Urbana-Champaign"
+}{
+    "ID": 6,
+    "AGE": "84",
+    "SOURCE OF WEALTH": "Zara, Self Made",
+    "RESIDENCE": "La Coruna, Spain",
+    "CITIZENSHIP": "Spain",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3"
+}{
+    "ID": 7,
+    "AGE": "36",
+    "SOURCE OF WEALTH": "Facebook, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "5",
+    "RESIDENCE": "Palo Alto, California",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "2",
+    "EDUCATION": "Drop Out, Harvard University"
+}{
+    "ID": 8,
+    "AGE": "72",
+    "SOURCE OF WEALTH": "Walmart",
+    "SELF-MADE SCORE": "2",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Bentonville, Arkansas",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "4",
+    "EDUCATION": "Bachelor of Arts/Science, University of Arkansas"
+}{
+    "ID": 9,
+    "AGE": "71",
+    "SOURCE OF WEALTH": "Walmart",
+    "SELF-MADE SCORE": "1",
+    "PHILANTHROPY SCORE": "3",
+    "RESIDENCE": "Fort Worth, Texas",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Divorced",
+    "EDUCATION": "Bachelor of Arts/Science, Trinity University"
+}{
+    "ID": 10,
+    "AGE": "76",
+    "SOURCE OF WEALTH": "Walmart",
+    "SELF-MADE SCORE": "4",
+    "PHILANTHROPY SCORE": "1",
+    "RESIDENCE": "Bentonville, Arkansas",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3",
+    "EDUCATION": "Bachelor of Arts/Science, University of Arkansas; Doctor of Jurisprudence, Columbia University"
+}{
+    "ID": 11,
+    "AGE": "64",
+    "SOURCE OF WEALTH": "Microsoft, Self Made",
+    "SELF-MADE SCORE": "6",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Hunts Point, Washington",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3",
+    "EDUCATION": "Bachelor of Arts/Science, Harvard University; Drop Out, Stanford University"
+}{
+    "ID": 12,
+    "AGE": "80",
+    "SOURCE OF WEALTH": "telecom, Self Made",
+    "RESIDENCE": "Mexico City, Mexico",
+    "CITIZENSHIP": "Mexico",
+    "MARITAL STATUS": "Widowed",
+    "CHILDREN": "6",
+    "EDUCATION": "Bachelor of Arts/Science, Universidad Nacional Autonoma de Mexico"
+}{
+    "ID": 13,
+    "AGE": "47",
+    "SOURCE OF WEALTH": "Google, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Palo Alto, California",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "1",
+    "EDUCATION": "Bachelor of Arts/Science, University of Michigan; Master of Science, Stanford University"
+}{
+    "ID": 14,
+    "AGE": "47",
+    "SOURCE OF WEALTH": "Google, Self Made",
+    "SELF-MADE SCORE": "9",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Los Altos, California",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3",
+    "EDUCATION": "Master of Science, Stanford University; Bachelor of Arts/Science, University of Maryland, College Park"
+}{
+    "ID": 15,
+    "AGE": "67",
+    "SOURCE OF WEALTH": "L'Oreal",
+    "RESIDENCE": "Paris, France",
+    "CITIZENSHIP": "France",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "2"
+}{
+    "ID": 16,
+    "AGE": "78",
+    "SOURCE OF WEALTH": "Bloomberg LP, Self Made",
+    "SELF-MADE SCORE": "8",
+    "PHILANTHROPY SCORE": "5",
+    "RESIDENCE": "New York, New York",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "In Relationship",
+    "CHILDREN": "2",
+    "EDUCATION": "Bachelor of Arts/Science, Johns Hopkins University; Master of Business Administration, Harvard Business School"
+}{
+    "ID": 17,
+    "AGE": "56",
+    "SOURCE OF WEALTH": "e-commerce, Self Made",
+    "RESIDENCE": "Hangzhou, China",
+    "CITIZENSHIP": "China",
+    "MARITAL STATUS": "Married",
+    "EDUCATION": "Bachelor of Arts/Science, Hangzhou Teacher's Institute"
+}{
+    "ID": 18,
+    "AGE": "85",
+    "SOURCE OF WEALTH": "Koch Industries",
+    "SELF-MADE SCORE": "5",
+    "PHILANTHROPY SCORE": "4",
+    "RESIDENCE": "Wichita, Kansas",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "2",
+    "EDUCATION": "Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+}{
+    "ID": 19,
+    "AGE": "58",
+    "SOURCE OF WEALTH": "Koch Industries",
+    "SELF-MADE SCORE": "1",
+    "RESIDENCE": "New York, New York",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Widowed",
+    "CHILDREN": "3"
+}{
+    "ID": 20,
+    "AGE": "49",
+    "SOURCE OF WEALTH": "internet media, Self Made",
+    "RESIDENCE": "Shenzhen, China",
+    "CITIZENSHIP": "China",
+    "MARITAL STATUS": "Married",
+    "EDUCATION": "Bachelor of Arts/Science, Shenzhen University"
+}{
+    "ID": 21,
+    "AGE": "63",
+    "SOURCE OF WEALTH": "diversified",
+    "RESIDENCE": "Mumbai, India",
+    "CITIZENSHIP": "India",
+    "MARITAL STATUS": "Married",
+    "CHILDREN": "3",
+    "EDUCATION": "Bachelor of Science in Engineering, University of Bombay; Drop Out, Stanford University"
+}{
+    "ID": 22,
+    "AGE": "50",
+    "SOURCE OF WEALTH": "Amazon",
+    "SELF-MADE SCORE": "3",
+    "RESIDENCE": "Seattle, Washington",
+    "CITIZENSHIP": "United States",
+    "MARITAL STATUS": "Divorced",
+    "CHILDREN": "4",
+    "EDUCATION": "Bachelor of Arts/Science, Princeton University"
+}{
+    "ID": 23,
+    "SOURCE OF WEALTH": "supermarkets",
+    "RESIDENCE": "Germany",
+    "CITIZENSHIP": "Germany"
+}{
+    "ID": 24,
+    "AGE": "63",
+    "SOURCE OF WEALTH": "media",
+    "RESIDENCE": "Toronto, Canada",
+    "CITIZENSHIP": "Canada",
+    "MARITAL STATUS": "Divorced",
+    "CHILDREN": "4",
+    "EDUCATION": "Master of Arts, University of Cambridge"
+}

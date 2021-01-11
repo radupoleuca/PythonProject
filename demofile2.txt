@@ -1,0 +1,1801 @@
+{
+    "id": 1,
+    "rank": "1",
+    "name": "JEFF BEZOS",
+    "net": "$113 B",
+    "age": "56",
+    "country": "United States",
+    "source": "Amazon",
+    "industry": "Technology"
+}{
+    "id": 2,
+    "rank": "2",
+    "name": "BILL GATES",
+    "net": "$98 B",
+    "age": "64",
+    "country": "United States",
+    "source": "Microsoft",
+    "industry": "Technology"
+}{
+    "id": 3,
+    "rank": "3",
+    "name": "BERNARD ARNAULT & FAMILY",
+    "net": "$76 B",
+    "age": "71",
+    "country": "France",
+    "source": "LVMH",
+    "industry": "Fashion & Retail"
+}{
+    "id": 4,
+    "rank": "4",
+    "name": "WARREN BUFFETT",
+    "net": "$67.5 B",
+    "age": "89",
+    "country": "United States",
+    "source": "Berkshire Hathaway",
+    "industry": "Finance & Investments"
+}{
+    "id": 5,
+    "rank": "5",
+    "name": "LARRY ELLISON",
+    "net": "$59 B",
+    "age": "75",
+    "country": "United States",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 6,
+    "rank": "6",
+    "name": "AMANCIO ORTEGA",
+    "net": "$55.1 B",
+    "age": "84",
+    "country": "Spain",
+    "source": "Zara",
+    "industry": "Fashion & Retail"
+}{
+    "id": 7,
+    "rank": "7",
+    "name": "MARK ZUCKERBERG",
+    "net": "$54.7 B",
+    "age": "35",
+    "country": "United States",
+    "source": "Facebook",
+    "industry": "Technology"
+}{
+    "id": 8,
+    "rank": "8",
+    "name": "JIM WALTON",
+    "net": "$54.6 B",
+    "age": "71",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 9,
+    "rank": "9",
+    "name": "ALICE WALTON",
+    "net": "$54.4 B",
+    "age": "70",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 10,
+    "rank": "10",
+    "name": "ROB WALTON",
+    "net": "$54.1 B",
+    "age": "75",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 11,
+    "rank": "11",
+    "name": "STEVE BALLMER",
+    "net": "$52.7 B",
+    "age": "64",
+    "country": "United States",
+    "source": "Microsoft",
+    "industry": "Technology"
+}{
+    "id": 12,
+    "rank": "12",
+    "name": "CARLOS SLIM HELU & FAMILY",
+    "net": "$52.1 B",
+    "age": "80",
+    "country": "Mexico",
+    "source": "telecom",
+    "industry": "Telecom"
+}{
+    "id": 13,
+    "rank": "13",
+    "name": "LARRY PAGE",
+    "net": "$50.9 B",
+    "age": "47",
+    "country": "United States",
+    "source": "Google",
+    "industry": "Technology"
+}{
+    "id": 14,
+    "rank": "14",
+    "name": "SERGEY BRIN",
+    "net": "$49.1 B",
+    "age": "46",
+    "country": "United States",
+    "source": "Google",
+    "industry": "Technology"
+}{
+    "id": 15,
+    "rank": "15",
+    "name": "FRANCOISE BETTENCOURT MEYERS & FAMILY",
+    "net": "$48.9 B",
+    "age": "66",
+    "country": "France",
+    "source": "L'Oreal",
+    "industry": "Fashion & Retail"
+}{
+    "id": 16,
+    "rank": "16",
+    "name": "MICHAEL BLOOMBERG",
+    "net": "$48 B",
+    "age": "78",
+    "country": "United States",
+    "source": "Bloomberg LP",
+    "industry": "Media & Entertainment"
+}{
+    "id": 17,
+    "rank": "17",
+    "name": "JACK MA",
+    "net": "$38.8 B",
+    "age": "55",
+    "country": "China",
+    "source": "e-commerce",
+    "industry": "Technology"
+}{
+    "id": 18,
+    "rank": "18",
+    "name": "CHARLES KOCH",
+    "net": "$38.2 B",
+    "age": "84",
+    "country": "United States",
+    "source": "Koch Industries",
+    "industry": "Diversified"
+}{
+    "id": 19,
+    "rank": "18",
+    "name": "JULIA KOCH & FAMILY",
+    "net": "$38.2 B",
+    "age": "57",
+    "country": "United States",
+    "source": "Koch Industries",
+    "industry": "Diversified"
+}{
+    "id": 20,
+    "rank": "20",
+    "name": "MA HUATENG",
+    "net": "$38.1 B",
+    "age": "48",
+    "country": "China",
+    "source": "internet media",
+    "industry": "Technology"
+}{
+    "id": 21,
+    "rank": "21",
+    "name": "MUKESH AMBANI",
+    "net": "$36.8 B",
+    "age": "62",
+    "country": "India",
+    "source": "petrochemicals, oil & gas",
+    "industry": "Energy"
+}{
+    "id": 22,
+    "rank": "22",
+    "name": "MACKENZIE SCOTT",
+    "net": "$36 B",
+    "age": "50",
+    "country": "United States",
+    "source": "Amazon.com",
+    "industry": "Technology"
+}{
+    "id": 23,
+    "rank": "23",
+    "name": "BEATE HEISTER & KARL ALBRECHT JR.",
+    "net": "$33.3 B",
+    "age": "",
+    "country": "Germany",
+    "source": "supermarkets",
+    "industry": "Fashion & Retail"
+}{
+    "id": 24,
+    "rank": "24",
+    "name": "DAVID THOMSON & FAMILY",
+    "net": "$31.6 B",
+    "age": "62",
+    "country": "Canada",
+    "source": "media",
+    "industry": "Media & Entertainment"
+}{
+    "id": 25,
+    "rank": "25",
+    "name": "PHIL KNIGHT & FAMILY",
+    "net": "$29.5 B",
+    "age": "82",
+    "country": "United States",
+    "source": "Nike",
+    "industry": "Fashion & Retail"
+}{
+    "id": 26,
+    "rank": "26",
+    "name": "LEE SHAU KEE",
+    "net": "$28.1 B",
+    "age": "92",
+    "country": "Hong Kong",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 27,
+    "rank": "27",
+    "name": "FRAN\u00c7OIS PINAULT & FAMILY",
+    "net": "$27 B",
+    "age": "83",
+    "country": "France",
+    "source": "luxury goods",
+    "industry": "Fashion & Retail"
+}{
+    "id": 28,
+    "rank": "28",
+    "name": "SHELDON ADELSON",
+    "net": "$26.8 B",
+    "age": "86",
+    "country": "United States",
+    "source": "casinos",
+    "industry": "Gambling & Casinos"
+}{
+    "id": 29,
+    "rank": "29",
+    "name": "JACQUELINE MARS",
+    "net": "$24.7 B",
+    "age": "80",
+    "country": "United States",
+    "source": "candy, pet food",
+    "industry": "Food & Beverage"
+}{
+    "id": 30,
+    "rank": "29",
+    "name": "JOHN MARS",
+    "net": "$24.7 B",
+    "age": "84",
+    "country": "United States",
+    "source": "candy, pet food",
+    "industry": "Food & Beverage"
+}{
+    "id": 31,
+    "rank": "31",
+    "name": "ELON MUSK",
+    "net": "$24.6 B",
+    "age": "48",
+    "country": "United States",
+    "source": "Tesla, SpaceX",
+    "industry": "Automotive"
+}{
+    "id": 32,
+    "rank": "32",
+    "name": "GIOVANNI FERRERO",
+    "net": "$24.5 B",
+    "age": "55",
+    "country": "Italy",
+    "source": "Nutella, chocolates",
+    "industry": "Food & Beverage"
+}{
+    "id": 33,
+    "rank": "33",
+    "name": "MICHAEL DELL",
+    "net": "$22.9 B",
+    "age": "55",
+    "country": "United States",
+    "source": "Dell computers",
+    "industry": "Technology"
+}{
+    "id": 34,
+    "rank": "34",
+    "name": "HUI KA YAN",
+    "net": "$21.8 B",
+    "age": "61",
+    "country": "China",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 35,
+    "rank": "35",
+    "name": "LI KA-SHING",
+    "net": "$21.7 B",
+    "age": "91",
+    "country": "Hong Kong",
+    "source": "diversified",
+    "industry": "Diversified"
+}{
+    "id": 36,
+    "rank": "36",
+    "name": "HE XIANGJIAN",
+    "net": "$21.6 B",
+    "age": "77",
+    "country": "China",
+    "source": "home appliances",
+    "industry": "Manufacturing"
+}{
+    "id": 37,
+    "rank": "36",
+    "name": "JIM SIMONS",
+    "net": "$21.6 B",
+    "age": "81",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 38,
+    "rank": "38",
+    "name": "YANG HUIYAN & FAMILY",
+    "net": "$20.3 B",
+    "age": "38",
+    "country": "China",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 39,
+    "rank": "39",
+    "name": "JOSEPH SAFRA",
+    "net": "$19.9 B",
+    "age": "81",
+    "country": "Brazil",
+    "source": "banking",
+    "industry": "Finance & Investments"
+}{
+    "id": 40,
+    "rank": "40",
+    "name": "DIETER SCHWARZ",
+    "net": "$19.8 B",
+    "age": "80",
+    "country": "Germany",
+    "source": "retail",
+    "industry": "Fashion & Retail"
+}{
+    "id": 41,
+    "rank": "41",
+    "name": "VLADIMIR POTANIN",
+    "net": "$19.7 B",
+    "age": "59",
+    "country": "Russia",
+    "source": "metals",
+    "industry": "Metals & Mining"
+}{
+    "id": 42,
+    "rank": "41",
+    "name": "TADASHI YANAI & FAMILY",
+    "net": "$19.7 B",
+    "age": "71",
+    "country": "Japan",
+    "source": "fashion retail",
+    "industry": "Fashion & Retail"
+}{
+    "id": 43,
+    "rank": "43",
+    "name": "QIN YINGLIN & FAMILY",
+    "net": "$18.5 B",
+    "age": "54",
+    "country": "China",
+    "source": "pig breeding",
+    "industry": "Food & Beverage"
+}{
+    "id": 44,
+    "rank": "44",
+    "name": "LUKAS WALTON",
+    "net": "$18.4 B",
+    "age": "33",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 45,
+    "rank": "45",
+    "name": "VLADIMIR LISIN",
+    "net": "$18.1 B",
+    "age": "63",
+    "country": "Russia",
+    "source": "steel, transport",
+    "industry": "Metals & Mining"
+}{
+    "id": 46,
+    "rank": "46",
+    "name": "RAY DALIO",
+    "net": "$18 B",
+    "age": "70",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 47,
+    "rank": "47",
+    "name": "TAKEMITSU TAKIZAKI",
+    "net": "$17.4 B",
+    "age": "74",
+    "country": "Japan",
+    "source": "sensors",
+    "industry": "Manufacturing"
+}{
+    "id": 48,
+    "rank": "48",
+    "name": "LEONID MIKHELSON",
+    "net": "$17.1 B",
+    "age": "64",
+    "country": "Russia",
+    "source": "gas, chemicals",
+    "industry": "Energy"
+}{
+    "id": 49,
+    "rank": "48",
+    "name": "ALAIN WERTHEIMER",
+    "net": "$17.1 B",
+    "age": "71",
+    "country": "France",
+    "source": "Chanel",
+    "industry": "Fashion & Retail"
+}{
+    "id": 50,
+    "rank": "48",
+    "name": "GERARD WERTHEIMER",
+    "net": "$17.1 B",
+    "age": "69",
+    "country": "France",
+    "source": "Chanel",
+    "industry": "Fashion & Retail"
+}{
+    "id": 51,
+    "rank": "51",
+    "name": "THEO ALBRECHT, JR. & FAMILY",
+    "net": "$17 B",
+    "age": "69",
+    "country": "Germany",
+    "source": "Aldi, Trader Joe's",
+    "industry": "Fashion & Retail"
+}{
+    "id": 52,
+    "rank": "51",
+    "name": "LEN BLAVATNIK",
+    "net": "$17 B",
+    "age": "62",
+    "country": "United States",
+    "source": "diversified",
+    "industry": "Diversified"
+}{
+    "id": 53,
+    "rank": "51",
+    "name": "WILLIAM LEI DING",
+    "net": "$17 B",
+    "age": "48",
+    "country": "China",
+    "source": "online games",
+    "industry": "Technology"
+}{
+    "id": 54,
+    "rank": "54",
+    "name": "SUSANNE KLATTEN",
+    "net": "$16.8 B",
+    "age": "57",
+    "country": "Germany",
+    "source": "BMW, pharmaceuticals",
+    "industry": "Automotive"
+}{
+    "id": 55,
+    "rank": "54",
+    "name": "ALEXEY MORDASHOV & FAMILY",
+    "net": "$16.8 B",
+    "age": "54",
+    "country": "Russia",
+    "source": "steel, investments",
+    "industry": "Metals & Mining"
+}{
+    "id": 56,
+    "rank": "56",
+    "name": "MASAYOSHI SON",
+    "net": "$16.6 B",
+    "age": "62",
+    "country": "Japan",
+    "source": "internet, telecom",
+    "industry": "Telecom"
+}{
+    "id": 57,
+    "rank": "57",
+    "name": "COLIN ZHENG HUANG",
+    "net": "$16.5 B",
+    "age": "40",
+    "country": "China",
+    "source": "e-commerce",
+    "industry": "Technology"
+}{
+    "id": 58,
+    "rank": "57",
+    "name": "DIETRICH MATESCHITZ",
+    "net": "$16.5 B",
+    "age": "75",
+    "country": "Austria",
+    "source": "Red Bull",
+    "industry": "Food & Beverage"
+}{
+    "id": 59,
+    "rank": "59",
+    "name": "JOSEPH LAU",
+    "net": "$16.4 B",
+    "age": "68",
+    "country": "Hong Kong",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 60,
+    "rank": "59",
+    "name": "LAURENE POWELL JOBS & FAMILY",
+    "net": "$16.4 B",
+    "age": "56",
+    "country": "United States",
+    "source": "Apple, Disney",
+    "industry": "Technology"
+}{
+    "id": 61,
+    "rank": "61",
+    "name": "ZHANG YIMING",
+    "net": "$16.2 B",
+    "age": "36",
+    "country": "China",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 62,
+    "rank": "62",
+    "name": "LEONARDO DEL VECCHIO & FAMILY",
+    "net": "$16.1 B",
+    "age": "84",
+    "country": "Italy",
+    "source": "eyeglasses",
+    "industry": "Fashion & Retail"
+}{
+    "id": 63,
+    "rank": "63",
+    "name": "DONALD BREN",
+    "net": "$15.5 B",
+    "age": "87",
+    "country": "United States",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 64,
+    "rank": "64",
+    "name": "STEPHEN SCHWARZMAN",
+    "net": "$15.4 B",
+    "age": "73",
+    "country": "United States",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 65,
+    "rank": "65",
+    "name": "VAGIT ALEKPEROV",
+    "net": "$15.2 B",
+    "age": "69",
+    "country": "Russia",
+    "source": "oil",
+    "industry": "Energy"
+}{
+    "id": 66,
+    "rank": "65",
+    "name": "LEE MAN TAT",
+    "net": "$15.2 B",
+    "age": "90",
+    "country": "Hong Kong",
+    "source": "food",
+    "industry": "Food & Beverage"
+}{
+    "id": 67,
+    "rank": "65",
+    "name": "WANG WEI",
+    "net": "$15.2 B",
+    "age": "50",
+    "country": "China",
+    "source": "package delivery",
+    "industry": "Service"
+}{
+    "id": 68,
+    "rank": "68",
+    "name": "PETR KELLNER",
+    "net": "$14.9 B",
+    "age": "55",
+    "country": "Czechia",
+    "source": "finance, telecommunications",
+    "industry": "Finance & Investments"
+}{
+    "id": 69,
+    "rank": "68",
+    "name": "RUPERT MURDOCH & FAMILY",
+    "net": "$14.9 B",
+    "age": "89",
+    "country": "United States",
+    "source": "newspapers, TV network",
+    "industry": "Media & Entertainment"
+}{
+    "id": 70,
+    "rank": "70",
+    "name": "LEONARD LAUDER",
+    "net": "$14.6 B",
+    "age": "83",
+    "country": "United States",
+    "source": "Estee Lauder",
+    "industry": "Fashion & Retail"
+}{
+    "id": 71,
+    "rank": "70",
+    "name": "ZHONG HUIJUAN",
+    "net": "$14.6 B",
+    "age": "59",
+    "country": "China",
+    "source": "pharmaceuticals",
+    "industry": "Healthcare"
+}{
+    "id": 72,
+    "rank": "72",
+    "name": "GENNADY TIMCHENKO",
+    "net": "$14.4 B",
+    "age": "67",
+    "country": "Russia",
+    "source": "oil, gas",
+    "industry": "Energy"
+}{
+    "id": 73,
+    "rank": "73",
+    "name": "THOMAS PETERFFY",
+    "net": "$14.3 B",
+    "age": "75",
+    "country": "United States",
+    "source": "discount brokerage",
+    "industry": "Finance & Investments"
+}{
+    "id": 74,
+    "rank": "74",
+    "name": "KLAUS-MICHAEL KUEHNE",
+    "net": "$14.2 B",
+    "age": "82",
+    "country": "Germany",
+    "source": "shipping",
+    "industry": "Logistics"
+}{
+    "id": 75,
+    "rank": "75",
+    "name": "LEE KUN-HEE",
+    "net": "$14.1 B",
+    "age": "78",
+    "country": "South Korea",
+    "source": "Samsung",
+    "industry": "Diversified"
+}{
+    "id": 76,
+    "rank": "76",
+    "name": "WANG JIANLIN",
+    "net": "$14 B",
+    "age": "65",
+    "country": "China",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 77,
+    "rank": "77",
+    "name": "STEVE COHEN",
+    "net": "$13.9 B",
+    "age": "63",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 78,
+    "rank": "78",
+    "name": "RADHAKISHAN DAMANI & FAMILY",
+    "net": "$13.8 B",
+    "age": "65",
+    "country": "India",
+    "source": "retail, investments",
+    "industry": "Fashion & Retail"
+}{
+    "id": 79,
+    "rank": "78",
+    "name": "CARL ICAHN",
+    "net": "$13.8 B",
+    "age": "84",
+    "country": "United States",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 80,
+    "rank": "80",
+    "name": "R. BUDI HARTONO",
+    "net": "$13.6 B",
+    "age": "79",
+    "country": "Indonesia",
+    "source": "banking, tobacco",
+    "industry": "Finance & Investments"
+}{
+    "id": 81,
+    "rank": "81",
+    "name": "DHANIN CHEARAVANONT",
+    "net": "$13.5 B",
+    "age": "80",
+    "country": "Thailand",
+    "source": "diversified",
+    "industry": "Diversified"
+}{
+    "id": 82,
+    "rank": "81",
+    "name": "STEFAN PERSSON",
+    "net": "$13.5 B",
+    "age": "72",
+    "country": "Sweden",
+    "source": "H&M",
+    "industry": "Fashion & Retail"
+}{
+    "id": 83,
+    "rank": "83",
+    "name": "ALISHER USMANOV",
+    "net": "$13.4 B",
+    "age": "66",
+    "country": "Russia",
+    "source": "steel, telecom, investments",
+    "industry": "Metals & Mining"
+}{
+    "id": 84,
+    "rank": "84",
+    "name": "ERIC SCHMIDT",
+    "net": "$13.2 B",
+    "age": "64",
+    "country": "United States",
+    "source": "Google",
+    "industry": "Technology"
+}{
+    "id": 85,
+    "rank": "85",
+    "name": "GINA RINEHART",
+    "net": "$13.1 B",
+    "age": "66",
+    "country": "Australia",
+    "source": "mining",
+    "industry": "Metals & Mining"
+}{
+    "id": 86,
+    "rank": "86",
+    "name": "WALTER P.J. DROEGE",
+    "net": "$13 B",
+    "age": "67",
+    "country": "Germany",
+    "source": "consulting",
+    "industry": "Service"
+}{
+    "id": 87,
+    "rank": "86",
+    "name": "MIKHAIL FRIDMAN",
+    "net": "$13 B",
+    "age": "55",
+    "country": "Russia",
+    "source": "oil, banking, telecom",
+    "industry": "Energy"
+}{
+    "id": 88,
+    "rank": "86",
+    "name": "MICHAEL HARTONO",
+    "net": "$13 B",
+    "age": "80",
+    "country": "Indonesia",
+    "source": "banking, tobacco",
+    "industry": "Manufacturing"
+}{
+    "id": 89,
+    "rank": "86",
+    "name": "DIETMAR HOPP & FAMILY",
+    "net": "$13 B",
+    "age": "79",
+    "country": "Germany",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 90,
+    "rank": "86",
+    "name": "ZHANG ZHIDONG",
+    "net": "$13 B",
+    "age": "48",
+    "country": "China",
+    "source": "internet media",
+    "industry": "Technology"
+}{
+    "id": 91,
+    "rank": "91",
+    "name": "HINDUJA BROTHERS",
+    "net": "$12.9 B",
+    "age": "",
+    "country": "United Kingdom",
+    "source": "diversified",
+    "industry": "Diversified"
+}{
+    "id": 92,
+    "rank": "91",
+    "name": "HEINZ HERMANN THIELE & FAMILY",
+    "net": "$12.9 B",
+    "age": "79",
+    "country": "Germany",
+    "source": "brakes",
+    "industry": "Construction & Engineering"
+}{
+    "id": 93,
+    "rank": "93",
+    "name": "CHARLENE DE CARVALHO-HEINEKEN & FAMILY",
+    "net": "$12.8 B",
+    "age": "65",
+    "country": "Netherlands",
+    "source": "Heineken",
+    "industry": "Food & Beverage"
+}{
+    "id": 94,
+    "rank": "94",
+    "name": "EMMANUEL BESNIER",
+    "net": "$12.7 B",
+    "age": "49",
+    "country": "France",
+    "source": "cheese",
+    "industry": "Food & Beverage"
+}{
+    "id": 95,
+    "rank": "95",
+    "name": "ANDREY MELNICHENKO",
+    "net": "$12.5 B",
+    "age": "48",
+    "country": "Russia",
+    "source": "coal, fertilizers",
+    "industry": "Energy"
+}{
+    "id": 96,
+    "rank": "96",
+    "name": "LI SHUFU",
+    "net": "$12.4 B",
+    "age": "56",
+    "country": "China",
+    "source": "automobiles",
+    "industry": "Automotive"
+}{
+    "id": 97,
+    "rank": "96",
+    "name": "HASSO PLATTNER & FAMILY",
+    "net": "$12.4 B",
+    "age": "76",
+    "country": "Germany",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 98,
+    "rank": "98",
+    "name": "LIU YONGHAO & FAMILY",
+    "net": "$12.3 B",
+    "age": "68",
+    "country": "China",
+    "source": "agribusiness",
+    "industry": "Service"
+}{
+    "id": 99,
+    "rank": "98",
+    "name": "STEFAN QUANDT",
+    "net": "$12.3 B",
+    "age": "53",
+    "country": "Germany",
+    "source": "BMW",
+    "industry": "Automotive"
+}{
+    "id": 100,
+    "rank": "100",
+    "name": "KEN GRIFFIN",
+    "net": "$12.1 B",
+    "age": "51",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 101,
+    "rank": "101",
+    "name": "DAVID TEPPER",
+    "net": "$12 B",
+    "age": "62",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 102,
+    "rank": "101",
+    "name": "WU YAJUN & FAMILY",
+    "net": "$12 B",
+    "age": "56",
+    "country": "China",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 103,
+    "rank": "103",
+    "name": "KWONG SIU-HING",
+    "net": "$11.9 B",
+    "age": "90",
+    "country": "Hong Kong",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 104,
+    "rank": "103",
+    "name": "SHIV NADAR",
+    "net": "$11.9 B",
+    "age": "74",
+    "country": "India",
+    "source": "software services",
+    "industry": "Technology"
+}{
+    "id": 105,
+    "rank": "105",
+    "name": "SUN PIAOYANG",
+    "net": "$11.8 B",
+    "age": "61",
+    "country": "China",
+    "source": "pharmaceuticals",
+    "industry": "Healthcare"
+}{
+    "id": 106,
+    "rank": "106",
+    "name": "LUI CHE WOO & FAMILY",
+    "net": "$11.7 B",
+    "age": "91",
+    "country": "Hong Kong",
+    "source": "casinos/hotels",
+    "industry": "Gambling & Casinos"
+}{
+    "id": 107,
+    "rank": "106",
+    "name": "RICARDO SALINAS PLIEGO & FAMILY",
+    "net": "$11.7 B",
+    "age": "64",
+    "country": "Mexico",
+    "source": "retail, media",
+    "industry": "Fashion & Retail"
+}{
+    "id": 108,
+    "rank": "108",
+    "name": "LI XITING",
+    "net": "$11.6 B",
+    "age": "69",
+    "country": "Singapore",
+    "source": "medical devices",
+    "industry": "Healthcare"
+}{
+    "id": 109,
+    "rank": "108",
+    "name": "REINHOLD WUERTH & FAMILY",
+    "net": "$11.6 B",
+    "age": "84",
+    "country": "Germany",
+    "source": "fasteners",
+    "industry": "Manufacturing"
+}{
+    "id": 110,
+    "rank": "110",
+    "name": "JOHN MENARD, JR.",
+    "net": "$11.5 B",
+    "age": "80",
+    "country": "United States",
+    "source": "home improvement stores",
+    "industry": "Fashion & Retail"
+}{
+    "id": 111,
+    "rank": "110",
+    "name": "PANG KANG",
+    "net": "$11.5 B",
+    "age": "64",
+    "country": "China",
+    "source": "soy sauce",
+    "industry": "Food & Beverage"
+}{
+    "id": 112,
+    "rank": "110",
+    "name": "PETER WOO",
+    "net": "$11.5 B",
+    "age": "73",
+    "country": "Hong Kong",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 113,
+    "rank": "113",
+    "name": "ROMAN ABRAMOVICH",
+    "net": "$11.3 B",
+    "age": "53",
+    "country": "Russia",
+    "source": "steel, investments",
+    "industry": "Diversified"
+}{
+    "id": 114,
+    "rank": "113",
+    "name": "UDO & HARALD TSCHIRA",
+    "net": "$11.3 B",
+    "age": "",
+    "country": "Germany",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 115,
+    "rank": "115",
+    "name": "MIKHAIL PROKHOROV",
+    "net": "$11.2 B",
+    "age": "54",
+    "country": "Russia",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 116,
+    "rank": "115",
+    "name": "XU HANG",
+    "net": "$11.2 B",
+    "age": "53",
+    "country": "Hong Kong",
+    "source": "medical devices",
+    "industry": "Healthcare"
+}{
+    "id": 117,
+    "rank": "117",
+    "name": "PALLONJI MISTRY",
+    "net": "$11.1 B",
+    "age": "90",
+    "country": "Ireland",
+    "source": "construction",
+    "industry": "Construction & Engineering"
+}{
+    "id": 118,
+    "rank": "118",
+    "name": "PHILIP ANSCHUTZ",
+    "net": "$11 B",
+    "age": "80",
+    "country": "United States",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 119,
+    "rank": "118",
+    "name": "GERMAN LARREA MOTA VELASCO & FAMILY",
+    "net": "$11 B",
+    "age": "66",
+    "country": "Mexico",
+    "source": "mining",
+    "industry": "Metals & Mining"
+}{
+    "id": 120,
+    "rank": "118",
+    "name": "PIERRE OMIDYAR",
+    "net": "$11 B",
+    "age": "52",
+    "country": "United States",
+    "source": "eBay, PayPal",
+    "industry": "Technology"
+}{
+    "id": 121,
+    "rank": "118",
+    "name": "JAMES RATCLIFFE",
+    "net": "$11 B",
+    "age": "67",
+    "country": "United Kingdom",
+    "source": "chemicals",
+    "industry": "Manufacturing"
+}{
+    "id": 122,
+    "rank": "118",
+    "name": "ZHANG YONG",
+    "net": "$11 B",
+    "age": "49",
+    "country": "Singapore",
+    "source": "restaurants",
+    "industry": "Food & Beverage"
+}{
+    "id": 123,
+    "rank": "123",
+    "name": "ROBERT & PHILIP NG",
+    "net": "$10.9 B",
+    "age": "",
+    "country": "Singapore",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 124,
+    "rank": "124",
+    "name": "IRIS FONTBONA & FAMILY",
+    "net": "$10.8 B",
+    "age": "77",
+    "country": "Chile",
+    "source": "mining",
+    "industry": "Metals & Mining"
+}{
+    "id": 125,
+    "rank": "124",
+    "name": "ABIGAIL JOHNSON",
+    "net": "$10.8 B",
+    "age": "58",
+    "country": "United States",
+    "source": "money management",
+    "industry": "Finance & Investments"
+}{
+    "id": 126,
+    "rank": "124",
+    "name": "DONALD NEWHOUSE",
+    "net": "$10.8 B",
+    "age": "90",
+    "country": "United States",
+    "source": "media",
+    "industry": "Media & Entertainment"
+}{
+    "id": 127,
+    "rank": "127",
+    "name": "GRAEME HART",
+    "net": "$10.5 B",
+    "age": "64",
+    "country": "New Zealand",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 128,
+    "rank": "127",
+    "name": "VIKTOR VEKSELBERG",
+    "net": "$10.5 B",
+    "age": "62",
+    "country": "Russia",
+    "source": "metals, energy",
+    "industry": "Energy"
+}{
+    "id": 129,
+    "rank": "129",
+    "name": "GOH CHENG LIANG",
+    "net": "$10.4 B",
+    "age": "92",
+    "country": "Singapore",
+    "source": "paints",
+    "industry": "Manufacturing"
+}{
+    "id": 130,
+    "rank": "129",
+    "name": "UDAY KOTAK",
+    "net": "$10.4 B",
+    "age": "61",
+    "country": "India",
+    "source": "banking",
+    "industry": "Finance & Investments"
+}{
+    "id": 131,
+    "rank": "129",
+    "name": "JORGE PAULO LEMANN & FAMILY",
+    "net": "$10.4 B",
+    "age": "80",
+    "country": "Brazil",
+    "source": "beer",
+    "industry": "Food & Beverage"
+}{
+    "id": 132,
+    "rank": "132",
+    "name": "JORN RAUSING",
+    "net": "$10.3 B",
+    "age": "60",
+    "country": "Sweden",
+    "source": "packaging",
+    "industry": "Food & Beverage"
+}{
+    "id": 133,
+    "rank": "133",
+    "name": "HANK & DOUG MEIJER",
+    "net": "$10.2 B",
+    "age": "",
+    "country": "United States",
+    "source": "supermarkets",
+    "industry": "Fashion & Retail"
+}{
+    "id": 134,
+    "rank": "133",
+    "name": "STEFANO PESSINA",
+    "net": "$10.2 B",
+    "age": "78",
+    "country": "Italy",
+    "source": "drugstores",
+    "industry": "Fashion & Retail"
+}{
+    "id": 135,
+    "rank": "135",
+    "name": "SULEIMAN KERIMOV & FAMILY",
+    "net": "$10 B",
+    "age": "54",
+    "country": "Russia",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 136,
+    "rank": "135",
+    "name": "STANLEY KROENKE",
+    "net": "$10 B",
+    "age": "72",
+    "country": "United States",
+    "source": "sports, real estate",
+    "industry": "Sports"
+}{
+    "id": 137,
+    "rank": "135",
+    "name": "JOSEPH TSAI",
+    "net": "$10 B",
+    "age": "56",
+    "country": "Canada",
+    "source": "e-commerce",
+    "industry": "Technology"
+}{
+    "id": 138,
+    "rank": "138",
+    "name": "GORDON MOORE",
+    "net": "$9.8 B",
+    "age": "91",
+    "country": "United States",
+    "source": "Intel",
+    "industry": "Technology"
+}{
+    "id": 139,
+    "rank": "139",
+    "name": "JAN KOUM",
+    "net": "$9.7 B",
+    "age": "44",
+    "country": "United States",
+    "source": "WhatsApp",
+    "industry": "Technology"
+}{
+    "id": 140,
+    "rank": "139",
+    "name": "ROBIN ZENG",
+    "net": "$9.7 B",
+    "age": "51",
+    "country": "Hong Kong",
+    "source": "batteries",
+    "industry": "Energy"
+}{
+    "id": 141,
+    "rank": "141",
+    "name": "JOHN FREDRIKSEN",
+    "net": "$9.6 B",
+    "age": "75",
+    "country": "Cyprus",
+    "source": "shipping",
+    "industry": "Logistics"
+}{
+    "id": 142,
+    "rank": "141",
+    "name": "ROBERT KUOK",
+    "net": "$9.6 B",
+    "age": "96",
+    "country": "Malaysia",
+    "source": "palm oil, shipping, property",
+    "industry": "Diversified"
+}{
+    "id": 143,
+    "rank": "141",
+    "name": "ANDREAS STRUENGMANN & FAMILY",
+    "net": "$9.6 B",
+    "age": "70",
+    "country": "Germany",
+    "source": "pharmaceuticals",
+    "industry": "Healthcare"
+}{
+    "id": 144,
+    "rank": "141",
+    "name": "THOMAS STRUENGMANN & FAMILY",
+    "net": "$9.6 B",
+    "age": "70",
+    "country": "Germany",
+    "source": "pharmaceuticals",
+    "industry": "Healthcare"
+}{
+    "id": 145,
+    "rank": "145",
+    "name": "HUI WING MAU",
+    "net": "$9.5 B",
+    "age": "69",
+    "country": "Hong Kong",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 146,
+    "rank": "146",
+    "name": "DUSTIN MOSKOVITZ",
+    "net": "$9.3 B",
+    "age": "35",
+    "country": "United States",
+    "source": "Facebook",
+    "industry": "Technology"
+}{
+    "id": 147,
+    "rank": "147",
+    "name": "LEI JUN",
+    "net": "$9.2 B",
+    "age": "50",
+    "country": "China",
+    "source": "smartphones",
+    "industry": "Technology"
+}{
+    "id": 148,
+    "rank": "147",
+    "name": "QUEK LENG CHAN",
+    "net": "$9.2 B",
+    "age": "78",
+    "country": "Malaysia",
+    "source": "banking, property",
+    "industry": "Diversified"
+}{
+    "id": 149,
+    "rank": "147",
+    "name": "SUN HONGBIN",
+    "net": "$9.2 B",
+    "age": "57",
+    "country": "United States",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 150,
+    "rank": "150",
+    "name": "FINN RAUSING",
+    "net": "$9.1 B",
+    "age": "65",
+    "country": "Sweden",
+    "source": "packaging",
+    "industry": "Food & Beverage"
+}{
+    "id": 151,
+    "rank": "150",
+    "name": "KIRSTEN RAUSING",
+    "net": "$9.1 B",
+    "age": "67",
+    "country": "Sweden",
+    "source": "packaging",
+    "industry": "Food & Beverage"
+}{
+    "id": 152,
+    "rank": "150",
+    "name": "CHAROEN SIRIVADHANABHAKDI",
+    "net": "$9.1 B",
+    "age": "75",
+    "country": "Thailand",
+    "source": "alcohol, real estate",
+    "industry": "Food & Beverage"
+}{
+    "id": 153,
+    "rank": "153",
+    "name": "STEWART AND LYNDA RESNICK",
+    "net": "$9 B",
+    "age": "",
+    "country": "United States",
+    "source": "agriculture, water",
+    "industry": "Food & Beverage"
+}{
+    "id": 154,
+    "rank": "153",
+    "name": "LUIS CARLOS SARMIENTO",
+    "net": "$9 B",
+    "age": "87",
+    "country": "Colombia",
+    "source": "banking",
+    "industry": "Finance & Investments"
+}{
+    "id": 155,
+    "rank": "155",
+    "name": "GAUTAM ADANI",
+    "net": "$8.9 B",
+    "age": "57",
+    "country": "India",
+    "source": "commodities, ports",
+    "industry": "Diversified"
+}{
+    "id": 156,
+    "rank": "155",
+    "name": "CHRISTY WALTON",
+    "net": "$8.9 B",
+    "age": "71",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 157,
+    "rank": "157",
+    "name": "SUNIL MITTAL & FAMILY",
+    "net": "$8.8 B",
+    "age": "62",
+    "country": "India",
+    "source": "telecom",
+    "industry": "Telecom"
+}{
+    "id": 158,
+    "rank": "157",
+    "name": "ZHANG BANGXIN",
+    "net": "$8.8 B",
+    "age": "40",
+    "country": "China",
+    "source": "education",
+    "industry": "Service"
+}{
+    "id": 159,
+    "rank": "159",
+    "name": "ANTHONY PRATT",
+    "net": "$8.7 B",
+    "age": "59",
+    "country": "Australia",
+    "source": "manufacturing",
+    "industry": "Manufacturing"
+}{
+    "id": 160,
+    "rank": "160",
+    "name": "GERMAN KHAN",
+    "net": "$8.5 B",
+    "age": "58",
+    "country": "Russia",
+    "source": "oil, banking, telecom",
+    "industry": "Energy"
+}{
+    "id": 161,
+    "rank": "161",
+    "name": "EDUARDO SAVERIN",
+    "net": "$8.4 B",
+    "age": "38",
+    "country": "Brazil",
+    "source": "Facebook",
+    "industry": "Technology"
+}{
+    "id": 162,
+    "rank": "162",
+    "name": "ALIKO DANGOTE",
+    "net": "$8.3 B",
+    "age": "62",
+    "country": "Nigeria",
+    "source": "cement, sugar",
+    "industry": "Manufacturing"
+}{
+    "id": 163,
+    "rank": "162",
+    "name": "GEORGE SOROS",
+    "net": "$8.3 B",
+    "age": "89",
+    "country": "United States",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 164,
+    "rank": "162",
+    "name": "ZONG QINGHOU",
+    "net": "$8.3 B",
+    "age": "74",
+    "country": "China",
+    "source": "beverages",
+    "industry": "Food & Beverage"
+}{
+    "id": 165,
+    "rank": "165",
+    "name": "RICHARD QIANGDONG LIU",
+    "net": "$8.2 B",
+    "age": "46",
+    "country": "China",
+    "source": "e-commerce",
+    "industry": "Technology"
+}{
+    "id": 166,
+    "rank": "165",
+    "name": "FRIEDHELM LOH",
+    "net": "$8.2 B",
+    "age": "73",
+    "country": "Germany",
+    "source": "manufacturing",
+    "industry": "Manufacturing"
+}{
+    "id": 167,
+    "rank": "165",
+    "name": "LU ZHONGFANG",
+    "net": "$8.2 B",
+    "age": "77",
+    "country": "China",
+    "source": "education",
+    "industry": "Automotive"
+}{
+    "id": 168,
+    "rank": "165",
+    "name": "CYRUS POONAWALLA",
+    "net": "$8.2 B",
+    "age": "78",
+    "country": "India",
+    "source": "vaccines",
+    "industry": "Healthcare"
+}{
+    "id": 169,
+    "rank": "169",
+    "name": "ERNESTO BERTARELLI",
+    "net": "$8 B",
+    "age": "54",
+    "country": "Switzerland",
+    "source": "biotech, investments",
+    "industry": "Healthcare"
+}{
+    "id": 170,
+    "rank": "169",
+    "name": "MIKE CANNON-BROOKES",
+    "net": "$8 B",
+    "age": "40",
+    "country": "Australia",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 171,
+    "rank": "169",
+    "name": "CARL COOK",
+    "net": "$8 B",
+    "age": "57",
+    "country": "United States",
+    "source": "medical devices",
+    "industry": "Healthcare"
+}{
+    "id": 172,
+    "rank": "169",
+    "name": "SCOTT FARQUHAR",
+    "net": "$8 B",
+    "age": "40",
+    "country": "Australia",
+    "source": "software",
+    "industry": "Technology"
+}{
+    "id": 173,
+    "rank": "169",
+    "name": "GONG HONGJIA & FAMILY",
+    "net": "$8 B",
+    "age": "55",
+    "country": "Hong Kong",
+    "source": "video surveillance",
+    "industry": "Finance & Investments"
+}{
+    "id": 174,
+    "rank": "169",
+    "name": "JERRY JONES",
+    "net": "$8 B",
+    "age": "77",
+    "country": "United States",
+    "source": "Dallas Cowboys",
+    "industry": "Sports"
+}{
+    "id": 175,
+    "rank": "169",
+    "name": "MICHAEL PLATT",
+    "net": "$8 B",
+    "age": "52",
+    "country": "United Kingdom",
+    "source": "hedge funds",
+    "industry": "Finance & Investments"
+}{
+    "id": 176,
+    "rank": "169",
+    "name": "ANDERS HOLCH POVLSEN",
+    "net": "$8 B",
+    "age": "47",
+    "country": "Denmark",
+    "source": "fashion retail",
+    "industry": "Fashion & Retail"
+}{
+    "id": 177,
+    "rank": "169",
+    "name": "ERIC WITTOUCK",
+    "net": "$8 B",
+    "age": "73",
+    "country": "Belgium",
+    "source": "Investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 178,
+    "rank": "169",
+    "name": "XU SHIHUI",
+    "net": "$8 B",
+    "age": "62",
+    "country": "China",
+    "source": "snacks, beverages",
+    "industry": "Food & Beverage"
+}{
+    "id": 179,
+    "rank": "179",
+    "name": "ANDREW BEAL",
+    "net": "$7.9 B",
+    "age": "67",
+    "country": "United States",
+    "source": "banks, real estate",
+    "industry": "Finance & Investments"
+}{
+    "id": 180,
+    "rank": "179",
+    "name": "ANN WALTON KROENKE",
+    "net": "$7.9 B",
+    "age": "71",
+    "country": "United States",
+    "source": "Walmart",
+    "industry": "Fashion & Retail"
+}{
+    "id": 181,
+    "rank": "179",
+    "name": "WANG WENYIN",
+    "net": "$7.9 B",
+    "age": "52",
+    "country": "China",
+    "source": "mining, copper products",
+    "industry": "Metals & Mining"
+}{
+    "id": 182,
+    "rank": "179",
+    "name": "ZHANG FAN",
+    "net": "$7.9 B",
+    "age": "54",
+    "country": "China",
+    "source": "touch screens",
+    "industry": "Technology"
+}{
+    "id": 183,
+    "rank": "183",
+    "name": "SHAHID KHAN",
+    "net": "$7.8 B",
+    "age": "69",
+    "country": "United States",
+    "source": "auto parts",
+    "industry": "Automotive"
+}{
+    "id": 184,
+    "rank": "184",
+    "name": "ZHANG JINDONG",
+    "net": "$7.7 B",
+    "age": "57",
+    "country": "China",
+    "source": "appliance retailer",
+    "industry": "Fashion & Retail"
+}{
+    "id": 185,
+    "rank": "185",
+    "name": "KUMAR BIRLA",
+    "net": "$7.6 B",
+    "age": "52",
+    "country": "India",
+    "source": "commodities",
+    "industry": "Diversified"
+}{
+    "id": 186,
+    "rank": "185",
+    "name": "CHEN BANG",
+    "net": "$7.6 B",
+    "age": "54",
+    "country": "China",
+    "source": "hospitals",
+    "industry": "Healthcare"
+}{
+    "id": 187,
+    "rank": "185",
+    "name": "DAVID GEFFEN",
+    "net": "$7.6 B",
+    "age": "77",
+    "country": "United States",
+    "source": "movies, record labels",
+    "industry": "Media & Entertainment"
+}{
+    "id": 188,
+    "rank": "185",
+    "name": "JIANG RENSHENG & FAMILY",
+    "net": "$7.6 B",
+    "age": "66",
+    "country": "China",
+    "source": "vaccines",
+    "industry": "Healthcare"
+}{
+    "id": 189,
+    "rank": "185",
+    "name": "JIM KENNEDY",
+    "net": "$7.6 B",
+    "age": "72",
+    "country": "United States",
+    "source": "media, automotive",
+    "industry": "Media & Entertainment"
+}{
+    "id": 190,
+    "rank": "185",
+    "name": "BLAIR PARRY-OKEDEN",
+    "net": "$7.6 B",
+    "age": "69",
+    "country": "United States",
+    "source": "media, automotive",
+    "industry": "Media & Entertainment"
+}{
+    "id": 191,
+    "rank": "185",
+    "name": "STEPHEN ROSS",
+    "net": "$7.6 B",
+    "age": "79",
+    "country": "United States",
+    "source": "real estate",
+    "industry": "Real Estate"
+}{
+    "id": 192,
+    "rank": "185",
+    "name": "AUGUST VON FINCK",
+    "net": "$7.6 B",
+    "age": "90",
+    "country": "Germany",
+    "source": "investments",
+    "industry": "Finance & Investments"
+}{
+    "id": 193,
+    "rank": "193",
+    "name": "DAVID DUFFIELD",
+    "net": "$7.5 B",
+    "age": "79",
+    "country": "United States",
+    "source": "business software",
+    "industry": "Technology"
+}{
+    "id": 194,
+    "rank": "193",
+    "name": "THOMAS FRIST, JR. & FAMILY",
+    "net": "$7.5 B",
+    "age": "81",
+    "country": "United States",
+    "source": "hospitals",
+    "industry": "Healthcare"
+}{
+    "id": 195,
+    "rank": "193",
+    "name": "EYAL OFER",
+    "net": "$7.5 B",
+    "age": "69",
+    "country": "Israel",
+    "source": "real estate, shipping",
+    "industry": "Diversified"
+}{
+    "id": 196,
+    "rank": "196",
+    "name": "JOHN GRAYKEN",
+    "net": "$7.4 B",
+    "age": "63",
+    "country": "Ireland",
+    "source": "private equity",
+    "industry": "Finance & Investments"
+}{
+    "id": 197,
+    "rank": "196",
+    "name": "NIELS PETER LOUIS-HANSEN",
+    "net": "$7.4 B",
+    "age": "72",
+    "country": "Denmark",
+    "source": "medical devices",
+    "industry": "Healthcare"
+}{
+    "id": 198,
+    "rank": "196",
+    "name": "LAKSHMI MITTAL",
+    "net": "$7.4 B",
+    "age": "69",
+    "country": "India",
+    "source": "steel",
+    "industry": "Metals & Mining"
+}{
+    "id": 199,
+    "rank": "196",
+    "name": "NICKY OPPENHEIMER & FAMILY",
+    "net": "$7.4 B",
+    "age": "74",
+    "country": "South Africa",
+    "source": "diamonds",
+    "industry": "Metals & Mining"
+}{
+    "id": 200,
+    "rank": "200",
+    "name": "JOHN DOERR",
+    "net": "$7.3 B",
+    "age": "68",
+    "country": "United States",
+    "source": "venture capital",
+    "industry": "Technology"
+}
